@@ -1,0 +1,7 @@
+{
+  "name": "DEMO_NODEJS_USER",
+  "version": "1.0.0",
+  "dependencies": {
+    "qs": "^6.11.0"
+  }
+}
